@@ -2,9 +2,7 @@
 # Fundamentals of Data Analysis 2020 - GMIT
 
 Tasks assessment for Fundamentals of Data Analysis 2020
-
-## An investigation into the numpy.random package.
-THIAGO LIMA
+by *Thiago Henrique Leao de Lima*
 
 #### About this repository:
 
