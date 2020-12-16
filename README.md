@@ -44,9 +44,18 @@ of the number of heads in each of the 1,000 simulations. Select an appropriate
 plot to depict the resulting list of 1,000 numbers, showing that it roughly follows
 a bell-shaped curve. You should explain your work in a Markdown cell above the
 code.
-[source:](https://www.codespeedy.com/biased-coin-flipping-simulation-in-python/)
 
 
+#### Task 4:
+
+**November 30th, 2020:** Simpson’s paradox is a well-known statistical paradox
+where a trend evident in a number of groups reverses when the groups are combined
+into one big data set. Use numpy to create four data sets, each with an x array
+and a corresponding y array, to demonstrate Simpson’s paradox. You might
+create your x arrays using numpy.linspace and create the y array for each
+x using notation like y = a * x + b where you choose the a and b for each
+x , y pair to demonstrate the paradox. You might see the Wikipedia page for
+Simpson’s paradox for inspiration.
 In order to run this notebook, you will need to install Python.
 
 It can be done from [Anaconda](https://www.anaconda.com/download/)
