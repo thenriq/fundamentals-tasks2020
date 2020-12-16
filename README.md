@@ -44,6 +44,7 @@ of the number of heads in each of the 1,000 simulations. Select an appropriate
 plot to depict the resulting list of 1,000 numbers, showing that it roughly follows
 a bell-shaped curve. You should explain your work in a Markdown cell above the
 code.
+[source:](https://www.codespeedy.com/biased-coin-flipping-simulation-in-python/)
 
 
 In order to run this notebook, you will need to install Python.
